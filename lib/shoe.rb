@@ -7,17 +7,17 @@ class Shoe
     
   def cobble
     puts "Your shoe is as good as new!"
-    @condition = new
+    @condition = "new"
   end
   
 end
 
-nike = Shoe.new("Nike")
-nike
-nike.color"red"
-nike.size"9.5"
-shoe.material"suede"
-shoe.condition"tattered"
+#nike = Shoe.new("Nike")
+#nike
+#nike.color"red"
+#nike.size"9.5"
+#shoe.material"suede"
+#shoe.condition"tattered"
 
 
 
